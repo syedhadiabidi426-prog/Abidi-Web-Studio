@@ -1,0 +1,1019 @@
+PROJECT: ABIDI WEB STUDIO — LUXURY INTERNATIONAL WEB DEVELOPMENT AGENCY
+
+Build a complete, premium, luxury, modern, full-stack web development agency website for my business, Abidi Web Studio.
+
+This must be a substantial, multi-page professional agency website, not a basic landing page, not a simple template, and not a static mockup.
+
+The website should make small-business owners, e-commerce brands, startups, and companies in the USA, United Kingdom, Canada, Australia, and Pakistan interested in contacting me for website development services.
+
+The final result must look like a premium international digital agency designed by an experienced UI/UX designer and developed by a professional full-stack developer.
+
+1. BUSINESS INFORMATION
+
+Business name: Abidi Web Studio
+
+Business category: Website Design, Web Development, E-commerce Development, Frontend Development, Backend Development, and Custom Web Applications.
+
+Founder/business contact: Syed Hadi Abidi
+
+Official email:
+syedhadiabidi426@gmail.com
+
+WhatsApp number:
+03293171559
+
+International WhatsApp number format:
++923293171559
+
+Instagram:
+https://www.instagram.com/abidiweb_studio?vrfl=d3hkdm1pamxiMWls
+
+Facebook:
+https://www.facebook.com/share/1F3vVA8nmn/
+
+Target markets:
+
+- United States
+- United Kingdom
+- Canada
+- Australia
+- Pakistan
+
+Business objective:
+Generate genuine website development enquiries from international and local businesses.
+
+Important business truth:
+The portfolio currently consists of demonstration projects that still need to be built. Do not invent clients, completed commercial projects, customer testimonials, awards, revenue figures, company registrations, or business achievements.
+
+Make the website impressive through its design, functionality, presentation, sample demonstrations, transparent pricing, and professional communication.
+
+Do not claim that Abidi Web Studio has completed hundreds of projects or has a large development team.
+
+2. REQUIRED TECHNOLOGY
+
+Build the website using a modern, maintainable architecture.
+
+Preferred technology:
+
+- Frontend: React
+- Styling: Tailwind CSS or clean, maintainable CSS
+- JavaScript or TypeScript
+- Backend: Node.js with Express, or a suitable server-side framework
+- Database: PostgreSQL or another suitable database
+- Authentication: Secure authentication if an admin dashboard is implemented
+- Contact forms: Server-side validation and secure email delivery
+- Deployment: Compatible with an appropriate frontend and backend hosting platform
+
+If the current Google AI Studio environment supports a different recommended full-stack architecture, use the best supported option and explain the choice.
+
+Do not generate a fake backend or claim a feature works if it is only a visual mockup.
+
+Provide the actual source code for all generated components.
+
+If the full project is too large to generate in one step, first establish the complete project structure, then implement the website in logical stages while preserving the same design and architecture.
+
+3. LUXURY VISUAL IDENTITY
+
+Create an exceptionally polished visual identity.
+
+Brand personality:
+
+- Premium
+- Trustworthy
+- Modern
+- Innovative
+- Elegant
+- International
+- Technically capable
+- Business-focused
+
+Color palette:
+
+- Deep midnight navy: #080D1A
+- Almost-black background: #05070D
+- Rich blue: #2563EB
+- Electric blue accent: #38BDF8
+- White: #F8FAFC
+- Muted silver: #A1A1AA
+- Optional subtle champagne-gold accent: #D6B36A
+
+Use dark backgrounds with beautiful contrast, elegant gradients, subtle glowing borders, refined shadows, spacious layouts, and excellent typography.
+
+Do not make the website look like a cheap gaming template.
+
+Use a sophisticated combination of typography such as Inter, Manrope, or a similar modern font.
+
+Create a consistent design system covering:
+
+- Typography
+- Colors
+- Spacing
+- Buttons
+- Cards
+- Forms
+- Icons
+- Navigation
+- Section headings
+- Hover states
+- Mobile layouts
+
+Use professional vector icons or an icon library such as Lucide.
+
+Do not use random emoji as substitutes for professional service icons.
+
+Create a distinctive Abidi Web Studio wordmark or simple custom logo using typography and an abstract digital symbol.
+
+The logo must be visible in the navigation, footer, and mobile menu.
+
+Use genuine-looking visual compositions, abstract 3D-style shapes, code-inspired visuals, browser mockups, and product interface previews where appropriate.
+
+Do not use copyrighted third-party logos as if they were official partners.
+
+4. WEBSITE STRUCTURE
+
+Build the following separate pages:
+
+1. Home
+2. About
+3. Services
+4. Website Design and Development
+5. E-commerce Development
+6. Frontend Development
+7. Backend Development
+8. Full-Stack Development
+9. React and Next.js Development
+10. Custom Web Applications
+11. Portfolio
+12. Pricing
+13. Industries We Serve
+14. Process
+15. FAQ
+16. Contact
+17. Privacy Policy
+18. Terms and Conditions
+
+Use consistent navigation and a professional footer across all pages.
+
+Make sure every navigation item opens the correct page.
+
+Avoid broken links, empty pages, and buttons that do nothing.
+
+5. HOMEPAGE HERO SECTION
+
+Create a premium first impression.
+
+Small introductory label:
+DIGITAL EXPERIENCES • WEB DESIGN • DEVELOPMENT
+
+Main headline:
+"Websites Built to Make Your Business Stand Out."
+
+Supporting headline:
+"Abidi Web Studio creates modern, responsive websites, online stores, and custom web applications for ambitious businesses around the world."
+
+Primary button:
+"Start Your Project"
+
+The button must open the Contact page or scroll to the enquiry form.
+
+Secondary button:
+"Explore Our Services"
+
+This button must open the Services page.
+
+Add a discreet WhatsApp contact button.
+
+Add a beautiful visual showing a premium website interface on desktop and mobile screens.
+
+Include subtle entrance animations, refined gradients, and carefully controlled movement.
+
+Do not use fake customer counts, fabricated reviews, or unverified claims.
+
+6. ABOUT SECTION
+
+Create a professional About page introducing Abidi Web Studio.
+
+Use this copy as the initial draft:
+
+"Abidi Web Studio focuses on building modern digital experiences that help businesses establish a stronger online presence. From professional business websites and e-commerce stores to frontend interfaces and custom web applications, our goal is to create digital products that combine thoughtful design with practical functionality.
+
+We believe a successful website should be visually appealing, easy to navigate, responsive across devices, and built around the needs of its business.
+
+Every project begins with understanding the client's goals, requirements, audience, and budget."
+
+Present the business professionally without inventing a team, office, company history, certifications, or completed client projects.
+
+Include sections for:
+
+- Our approach
+- Our development principles
+- What clients can expect
+- Technologies we work with
+
+7. COMPLETE SERVICES SECTION
+
+Create attractive service cards with individual icons, descriptions, benefits, and enquiry buttons.
+
+SERVICE A: BUSINESS WEBSITE DEVELOPMENT
+
+For:
+
+- Small businesses
+- Consultants
+- Agencies
+- Professional services
+- Local businesses
+- Service providers
+
+Features can include:
+
+- Custom page layouts
+- Home, About, Services, and Contact pages
+- Responsive mobile design
+- Contact forms
+- WhatsApp integration
+- Social media integration
+- Basic technical SEO
+- Performance optimization
+- Deployment assistance
+
+SERVICE B: E-COMMERCE WEBSITE DEVELOPMENT
+
+For:
+
+- Fashion brands
+- Clothing stores
+- Electronics stores
+- Beauty brands
+- Home and lifestyle brands
+- Other online retailers
+
+Features can include:
+
+- Product catalogue
+- Product detail pages
+- Categories and filters
+- Shopping cart
+- Checkout
+- Order management
+- Inventory management
+- Customer accounts where required
+- Payment gateway integration where supported
+- Shipping integration where available
+- Transactional email notifications
+- Store administration
+
+Never claim a payment gateway is connected until it has been configured and tested.
+
+SERVICE C: FRONTEND DEVELOPMENT
+
+Features:
+
+- Responsive interfaces
+- React components
+- Modern layouts
+- Tailwind CSS
+- Interactive elements
+- Accessibility improvements
+- UI implementation
+- Frontend performance optimization
+
+SERVICE D: BACKEND DEVELOPMENT
+
+Features:
+
+- REST APIs
+- Database design
+- Server-side validation
+- Authentication
+- Authorization
+- Business logic
+- Data management
+- Integration with third-party APIs
+- Secure error handling
+
+SERVICE E: FULL-STACK DEVELOPMENT
+
+Features:
+
+- Frontend and backend integration
+- Database connectivity
+- API development
+- User accounts
+- Admin dashboards
+- Data management
+- Deployment configuration
+
+SERVICE F: REACT AND NEXT.JS DEVELOPMENT
+
+Features:
+
+- Modern React websites
+- Next.js applications
+- Reusable components
+- Server-side rendering where appropriate
+- Routing
+- API integration
+- Performance optimization
+- SEO-friendly rendering
+
+SERVICE G: CUSTOM WEB APPLICATIONS
+
+Possible projects:
+
+- Booking platforms
+- Business dashboards
+- Customer portals
+- Internal management systems
+- SaaS prototypes
+- Workflow tools
+- Custom business applications
+
+Clearly explain that complex applications require individual project scoping.
+
+SERVICE H: WEBSITE REDESIGN
+
+Features:
+
+- Modernized visual design
+- Better mobile experience
+- Improved navigation
+- Performance improvements
+- Accessibility improvements
+- Content structure improvements
+
+SERVICE I: WEBSITE MAINTENANCE
+
+Possible services:
+
+- Bug fixes
+- Security updates
+- Content updates
+- Backup configuration
+- Dependency updates
+- Performance monitoring
+- Minor design adjustments
+
+Only advertise maintenance tasks that can actually be delivered.
+
+Each service card must have a working "Discuss Your Project" button.
+
+The button should open the contact form and automatically preselect the relevant service.
+
+8. INTERNATIONAL PRICING PAGE
+
+Create a sophisticated pricing page with four country/region selectors:
+
+- USA — USD ($)
+- UK — GBP (£)
+- Canada — CAD (C$)
+- Australia — AUD (A$)
+- Pakistan — PKR (Rs.)
+
+The selected region must display the relevant suggested starting prices.
+
+Use the following prices as initial business pricing configuration.
+
+These are suggested starting prices for Abidi Web Studio, not official market averages or guaranteed quotations.
+
+USA — USD
+
+Landing page: $250+
+Basic business website: $500+
+Professional business website: $1,000+
+Corporate website: $1,500+
+E-commerce website: $1,200+
+React or Next.js website: $800+
+Custom web application: $2,000+
+Booking website: $800+
+Website redesign: $300+
+Monthly maintenance: $75+/month
+
+UNITED KINGDOM — GBP
+
+Landing page: £200+
+Basic business website: £400+
+Professional business website: £800+
+Corporate website: £1,200+
+E-commerce website: £950+
+React or Next.js website: £650+
+Custom web application: £1,600+
+Booking website: £650+
+Website redesign: £250+
+Monthly maintenance: £60+/month
+
+CANADA — CAD
+
+Landing page: C$350+
+Basic business website: C$700+
+Professional business website: C$1,400+
+Corporate website: C$2,000+
+E-commerce website: C$1,700+
+React or Next.js website: C$1,100+
+Custom web application: C$2,800+
+Booking website: C$1,100+
+Website redesign: C$450+
+Monthly maintenance: C$100+/month
+
+AUSTRALIA — AUD
+
+Landing page: A$350+
+Basic business website: A$700+
+Professional business website: A$1,400+
+Corporate website: A$2,000+
+E-commerce website: A$1,700+
+React or Next.js website: A$1,100+
+Custom web application: A$2,800+
+Booking website: A$1,100+
+Website redesign: A$450+
+Monthly maintenance: A$100+/month
+
+PAKISTAN — PKR
+
+Landing page: Rs. 20,000+
+Basic business website: Rs. 40,000+
+Professional business website: Rs. 80,000+
+Corporate website: Rs. 150,000+
+E-commerce website: Rs. 100,000+
+React or Next.js website: Rs. 60,000+
+Custom web application: Rs. 200,000+
+Booking website: Rs. 75,000+
+Website redesign: Rs. 25,000+
+Monthly maintenance: Rs. 5,000+/month
+
+PRICING DISPLAY REQUIREMENTS
+
+- Create a country selector or tab system.
+- Clearly label every price as "Starting at".
+- Do not automatically convert currencies using hard-coded exchange rates.
+- Treat each regional price as an independently configured business price.
+- Make prices easy to update from one central configuration file or an admin interface.
+- Provide a custom quotation option.
+- Explain that final prices depend on project requirements.
+- Clearly identify monthly maintenance as recurring.
+- Keep third-party costs separate from development charges.
+
+Add a pricing disclaimer:
+
+"All prices are indicative starting prices. Final quotations depend on project scope, page count, design requirements, integrations, content, functionality, and delivery schedule. Domain registration, hosting, paid plugins, platform subscriptions, and third-party services may be charged separately."
+
+Do not suggest that every project can be delivered at the displayed starting price regardless of complexity.
+
+9. WEBSITE PACKAGE CARDS
+
+Create three polished pricing cards for each selected region.
+
+STARTER
+
+Suitable for a landing page or a small business website.
+
+Possible inclusions:
+
+- Up to 5 pages
+- Responsive design
+- Contact section
+- WhatsApp contact button
+- Social media links
+- Basic on-page SEO
+- Contact form where appropriate
+- Basic testing
+
+Display the appropriate starting price based on the selected region.
+
+PROFESSIONAL
+
+Suitable for businesses requiring a more developed online presence.
+
+Possible inclusions:
+
+- Up to 10 pages
+- Custom page layouts
+- Responsive design
+- Advanced contact forms
+- Service or product presentation
+- Basic SEO setup
+- Performance optimization
+- Analytics integration when configured
+- Testing and handover
+
+Display the appropriate starting price based on the selected region.
+
+ADVANCED / CUSTOM
+
+Suitable for e-commerce, advanced business websites, or custom web applications.
+
+Possible inclusions depend on the project:
+
+- Custom UI
+- Advanced frontend
+- Backend functionality
+- Database integration
+- Authentication where required
+- API integrations
+- Admin functionality where required
+- Security considerations
+- Testing and deployment planning
+
+Display "Custom Quote" where the price depends on the scope.
+
+Do not promise complex backend functionality inside the Starter package.
+
+10. INDUSTRIES WE SERVE
+
+Build a visual industry directory featuring:
+
+- E-commerce and retail
+- Fashion and apparel
+- Real estate
+- Restaurants and food businesses
+- Healthcare and clinics
+- Education and training
+- Professional services
+- Consulting businesses
+- Startups
+- Technology companies
+- Travel and hospitality
+- Local service businesses
+
+Each industry card should explain how a suitable website could support that business.
+
+Do not claim that Abidi Web Studio has previously served these industries unless the work is later verified.
+
+Add a button:
+"Build a Website for My Business"
+
+This should open the contact form with the selected industry prefilled.
+
+11. PORTFOLIO AND DEMONSTRATION PROJECTS
+
+Create an elegant portfolio page.
+
+IMPORTANT:
+The demonstration projects have not yet been built as completed projects. Create sample demonstration interfaces that can be reviewed as examples, and label every one clearly as "DEMO PROJECT".
+
+DEMO PROJECT 1: LUXURY FASHION E-COMMERCE
+
+Create a beautiful sample fashion storefront featuring:
+
+- Premium homepage
+- Product cards
+- Product details
+- Category filters
+- Shopping cart interface
+- Mobile layout
+
+DEMO PROJECT 2: PROFESSIONAL BUSINESS WEBSITE
+
+Create a sample business website featuring:
+
+- Hero section
+- Services
+- About section
+- Contact form interface
+- Responsive layout
+
+DEMO PROJECT 3: REAL ESTATE WEBSITE
+
+Create a sample property listing interface featuring:
+
+- Property cards
+- Filters
+- Property detail layout
+- Enquiry button
+
+DEMO PROJECT 4: SAAS DASHBOARD
+
+Create a sample software dashboard interface featuring:
+
+- Navigation
+- Dashboard cards
+- Charts or data visualizations
+- Table layouts
+- Responsive behavior
+
+DEMO PROJECT 5: BOOKING WEBSITE
+
+Create a sample appointment booking interface featuring:
+
+- Service selection
+- Date and time selection UI
+- Customer details form
+
+Clearly distinguish functional demonstration features from production integrations.
+
+Each portfolio card should include:
+
+- Project name
+- Project category
+- Technologies used
+- Short project description
+- "View Demo" button if a working demo exists
+
+Do not fabricate project URLs.
+
+Do not label demonstrations as paid client projects.
+
+Do not publish a demo as production-ready unless its relevant features have been implemented and tested.
+
+12. CONTACT AND LEAD GENERATION
+
+The contact page must be designed to convert visitors into genuine enquiries.
+
+Add a professional enquiry form with these fields:
+
+1. Full name
+2. Business name — optional
+3. Email address
+4. Country
+5. Preferred contact method
+6. WhatsApp number — optional
+7. Website type
+8. Industry
+9. Required services
+10. Project budget
+11. Desired completion date
+12. Existing website URL — optional
+13. Project description
+14. Additional requirements
+15. Privacy consent checkbox
+
+Website type options:
+
+- Landing page
+- Business website
+- Corporate website
+- E-commerce website
+- React / Next.js website
+- Custom web application
+- Booking website
+- Website redesign
+- Website maintenance
+- Other
+
+Country options:
+
+- United States
+- United Kingdom
+- Canada
+- Australia
+- Pakistan
+- Other
+
+Budget options should adapt to the selected country and currency.
+
+Include a clear Submit Project Enquiry button.
+
+When the form is submitted:
+
+- Validate all required fields.
+- Validate email format.
+- Sanitize input.
+- Prevent duplicate submissions where practical.
+- Display an accessible success or error message.
+- Send the enquiry to syedhadiabidi426@gmail.com through a properly configured server-side email service.
+- Keep API keys and email credentials on the server, never in public frontend code.
+- Do not display a false success message if the enquiry was not actually submitted.
+
+If email credentials are not configured yet, explain how to configure them and provide a development-only fallback that does not pretend an email has been sent.
+
+Add appropriate spam protection and server-side validation.
+
+13. SOCIAL MEDIA AND CONTACT ICONS
+
+Create a dedicated "Connect With Us" section.
+
+Display separate, recognizable icons for:
+
+INSTAGRAM
+
+Use this exact destination:
+https://www.instagram.com/abidiweb_studio?vrfl=d3hkdm1pamxiMWls
+
+FACEBOOK
+
+Use this exact destination:
+https://www.facebook.com/share/1F3vVA8nmn/
+
+WHATSAPP
+
+Use this international number:
+923293171559
+
+Create this click-to-chat destination:
+https://wa.me/923293171559
+
+EMAIL
+
+Use:
+syedhadiabidi426@gmail.com
+
+Create this email destination:
+mailto:syedhadiabidi426@gmail.com
+
+The icons must be visually separate, properly aligned, accessible, and easy to tap on mobile.
+
+Use each platform's recognizable icon from a suitable icon library.
+
+Instagram must open the supplied Instagram page.
+
+Facebook must open the supplied Facebook page.
+
+WhatsApp must open a chat with the supplied number.
+
+Email must open the visitor's email application.
+
+Use accessible labels and meaningful hover states.
+
+Open external social links in a new tab where appropriate.
+
+Do not invent additional social accounts.
+
+Add a professional floating WhatsApp button on the bottom-right of the website.
+
+Make sure it does not cover important mobile content or form controls.
+
+14. WHATSAPP ENQUIRY MESSAGES
+
+Create prefilled WhatsApp enquiry links for service buttons.
+
+For example, a business website button should open WhatsApp with a message similar to:
+
+"Hello Abidi Web Studio, I am interested in a business website. Please share your packages and quotation."
+
+An e-commerce button should open a message similar to:
+
+"Hello Abidi Web Studio, I am interested in developing an e-commerce website. I would like to discuss my requirements and budget."
+
+A custom application button should open a message similar to:
+
+"Hello Abidi Web Studio, I would like to discuss a custom web application. Please let me know the next steps."
+URL-encode the messages properly.
+Always use the correct WhatsApp number.
+15. BACKEND AND ADMIN DASHBOARD
+Implement a real backend if supported by the generated project.
+Create an admin dashboard that allows an authorized administrator to:
+Sign in securely.
+View project enquiries.
+View enquiry details.
+Change enquiry status.
+Mark leads as New, Contacted, Qualified, In Progress, Won, or Lost.
+Add internal notes.
+Filter enquiries by country, service, and status.
+Update configured service starting prices.
+Update package descriptions.
+Manage demonstration project descriptions.
+Export lead data securely if supported.
+Requirements:
+Secure authentication.
+Server-side authorization.
+Password hashing using an appropriate secure algorithm.
+Input validation.
+Database constraints where appropriate.
+Protected API routes.
+Rate limiting.
+Secure session handling.
+Environment variables for secrets.
+Error handling.
+Database backup guidance.
+Privacy-conscious data storage.
+Do not expose admin credentials, secrets, API keys, or private lead data in frontend code.
+Do not create a publicly accessible admin dashboard.
+Do not create a fake admin login that accepts any password.
+If database credentials are unavailable, provide a clearly documented setup process and development mode. Never claim the database is connected when it is not.
+16. SEO AND SEARCH VISIBILITY
+Implement foundational SEO:
+Unique page titles
+Meta descriptions
+Canonical URL configuration
+Open Graph metadata
+Social sharing metadata
+XML sitemap
+Robots.txt
+Semantic HTML
+Descriptive image alt text
+Logical heading hierarchy
+Internal links
+Clean URLs
+Structured data only where accurate
+Fast-loading assets
+Mobile-friendly layouts
+Suggested homepage title:
+"Abidi Web Studio | Website Design & Full-Stack Development"
+Suggested meta description:
+"Explore website design, e-commerce development, React, Next.js, and custom web application services from Abidi Web Studio. Discuss your next digital project."
+Target relevant search phrases naturally:
+Website developer
+Web development services
+E-commerce website development
+Business website design
+React developer
+Next.js development
+Full-stack web development
+Custom web applications
+Do not promise guaranteed Google rankings.
+Do not add fake addresses, fake business locations, or inaccurate local business structured data.
+17. PERFORMANCE, SECURITY, AND ACCESSIBILITY
+The website must:
+Work on Android phones, iPhones, tablets, laptops, and desktop computers.
+Use responsive layouts.
+Have a mobile navigation menu.
+Avoid horizontal overflow.
+Use optimized images.
+Avoid unnecessary animation libraries.
+Support keyboard navigation.
+Use visible focus states.
+Use readable text contrast.
+Respect reduced-motion preferences.
+Use semantic HTML.
+Include accessible form labels.
+Display loading states where appropriate.
+Handle API errors gracefully.
+Avoid hard-coded secrets.
+Validate form data on the server.
+Use HTTPS in production.
+Avoid exposing unnecessary personal data.
+Aim for strong performance, accessibility, SEO, and best-practice results. Measure performance rather than promising a specific score before testing.
+18. PROFESSIONAL PROCESS PAGE
+Create a visual development process:
+STEP 1 — DISCOVERY
+Understand the business, audience, requirements, and goals.
+STEP 2 — PLANNING
+Define the sitemap, features, project scope, timeline, and budget.
+STEP 3 — DESIGN
+Create the interface and agree on the visual direction.
+STEP 4 — DEVELOPMENT
+Build the approved frontend and any required backend functionality.
+STEP 5 — TESTING
+Test responsiveness, navigation, forms, functionality, and major user journeys.
+STEP 6 — LAUNCH
+Configure the domain and hosting, deploy the project, and verify the live website.
+STEP 7 — SUPPORT
+Provide any agreed maintenance and support.
+Explain that the schedule depends on the project scope and the client's feedback.
+19. FAQ PAGE
+Include useful questions such as:
+What types of websites do you build?
+Do you work with international clients?
+How much does a website cost?
+Do you build e-commerce websites?
+Can you build frontend and backend functionality?
+Can you redesign an existing website?
+Do you provide responsive mobile design?
+Are hosting and domain costs included?
+How do project payments work?
+Can I request a custom quotation?
+Do you offer website maintenance?
+How do I contact Abidi Web Studio?
+Use honest, straightforward answers.
+Explain that final quotations and schedules depend on requirements.
+Do not invent payment methods or guarantee a delivery date before reviewing a project.
+20. TRUST AND CONVERSION ELEMENTS
+Add:
+A clear primary call to action.
+Easy-to-find contact information.
+Transparent starting prices.
+Clear service descriptions.
+Demonstration project labels.
+A professional development process.
+A detailed FAQ.
+A privacy-conscious enquiry form.
+Clear expectations regarding project scope and third-party costs.
+Do not invent customer reviews, client logos, certifications, awards, or statistics.
+Instead of fake testimonials, create a section titled:
+"What You Can Expect"
+Explain communication, project scoping, responsive design, transparent pricing, testing, and clear handover.
+21. FOOTER
+Create a premium multi-column footer containing:
+Column 1: Abidi Web Studio logo and a short business description.
+Column 2: Services:
+Business Websites
+E-commerce Development
+Frontend Development
+Backend Development
+Custom Web Applications
+Column 3: Company:
+About
+Portfolio
+Pricing
+Process
+FAQ
+Contact
+Column 4: Connect:
+Instagram
+Facebook
+WhatsApp
+Email
+Include the correct supplied URLs and email address.
+Add links to Privacy Policy and Terms and Conditions.
+Use the current year dynamically.
+Do not invent a street address, office location, or telephone number other than the supplied WhatsApp number.
+22. DESIGN DETAILS AND ANIMATIONS
+Add refined interactions:
+Smooth page transitions where appropriate.
+Subtle reveal animations.
+Elegant button hover effects.
+Animated gradient accents.
+Portfolio card hover states.
+Interactive pricing tabs.
+Mobile-friendly dropdowns.
+Smooth scrolling.
+Loading indicators.
+Accessible success and error messages.
+Avoid excessive movement, visual clutter, oversized effects, or animations that slow down mobile devices.
+The website must remain usable when animations are disabled.
+23. REQUIRED DELIVERABLES
+Generate the complete project rather than only describing what should be built.
+Deliver:
+A complete multi-page frontend.
+Working navigation.
+Responsive layouts.
+Service pages.
+Regional pricing selector.
+Portfolio with clearly labelled demo projects.
+Working social media links.
+Working WhatsApp click-to-chat links.
+Working email link.
+Contact form with appropriate validation.
+Backend source code where supported.
+Database schema and configuration instructions where required.
+Secure admin dashboard if the environment supports the complete implementation.
+SEO metadata.
+Privacy and terms page drafts.
+A complete source-code structure.
+A README with setup instructions.
+An environment-variable example file without real secrets.
+Instructions for running the project locally.
+Instructions for configuring email delivery.
+Instructions for connecting the database.
+Instructions for testing the application.
+Instructions for deploying the frontend and backend.
+A checklist of features that still require configuration or testing.
+Use realistic placeholder images and assets where necessary. Do not invent working URLs for assets or deployed projects.
+24. FINAL INSTRUCTIONS
+First, inspect the capabilities of the current development environment and choose a suitable full-stack architecture.
+Then generate the complete website in a logical order.
+Begin with the shared design system, navigation, homepage, and responsive layouts.
+Continue with all service pages, portfolio, pricing, contact page, and footer.
+Then implement the backend, database, authentication, enquiry handling, and administration functionality where supported.
+Test the project and fix obvious errors.
+Make every button functional or clearly mark it as requiring configuration.
+Do not stop after producing a basic homepage.
+Do not replace the requested multi-page website with a short mockup.
+Do not invent completed client projects, testimonials, business statistics, or deployed URLs.
+At the end, show the website preview if available and provide the source-code files.
+Finally, explain in beginner-friendly language:
+Which parts are already implemented.
+Which features require credentials or external services.
+How to test the website.
+How to configure the backend.
+How to deploy it.
+Which additional costs may apply.
+The final result should be a premium, trustworthy, international-facing website for Abidi Web Studio that can grow into a real web development business.
+
+25. ADDITIONAL IMPLEMENTATION AND QUALITY CONTROL INSTRUCTIONS
+
+IMPORTANT: Build this project as a real, maintainable, professional web application for Abidi Web Studio. The instructions in this section supplement the requirements above; they do not replace any of them.
+
+1. ARCHITECTURE
+Use React for the frontend and a compatible Node.js server-side runtime for backend functionality. Choose a suitable database and authentication solution supported by the current environment. Prefer Firebase integration if it fits the project and is supported by the environment. If you choose a different architecture, briefly explain why and keep it compatible with the development and deployment environment.
+
+2. IMPLEMENTATION IN STAGES
+Do not implement all features superficially in one step. Work through these stages in the same project, preserving the established design and all working features:
+
+Stage 1: Establish the project architecture, global design system, typography, color palette, navigation, footer, homepage, and responsive layouts.
+Stage 2: Implement About, Services, individual service pages, Industries, Process, and FAQ.
+Stage 3: Implement Portfolio demonstration pages, interactive pricing, regional currency selection, and package configuration.
+Stage 4: Implement the contact form, server-side validation, email-delivery configuration, WhatsApp links, and social integrations.
+Stage 5: Implement database integration, secure administrator authentication, protected admin routes, and lead management.
+Stage 6: Complete SEO, accessibility, security checks, responsive testing, error handling, and deployment documentation.
+
+After each stage, verify the existing application before moving to the next stage. Do not stop permanently after Stage 1; continue through the remaining stages as the environment allows. If the platform requires user approval or configuration to continue, explain exactly what is needed.
+
+3. DESIGN QUALITY
+Create a distinctive luxury digital-agency aesthetic. Use refined spacing, premium typography, sophisticated cards, subtle gradients, elegant animations, and polished responsive layouts. Avoid generic AI-generated website aesthetics, excessive glowing effects, visual clutter, and animations that slow down mobile devices. Maintain consistency across all pages.
+
+4. FUNCTIONAL REQUIREMENTS
+Every navigation link and interactive button must have a meaningful destination or action. Forms must validate their inputs. Implement loading, success, and error states appropriately. Do not simulate successful email delivery, database writes, authentication, or payments. Clearly identify integrations that require configuration.
+
+5. SECURITY
+Keep credentials and API keys out of frontend code. Protect administrator routes on the server. Validate and sanitize input on the server, apply appropriate access controls and rate limits, and protect sensitive enquiry data. Never create a fake admin login or expose customer enquiries publicly. Use secure password hashing and session handling appropriate to the chosen architecture.
+
+6. HONEST BUSINESS PRESENTATION
+Do not invent customers, testimonials, completed commercial projects, awards, certifications, company locations, company registrations, or business statistics. Clearly label portfolio demonstrations as DEMO PROJECT. Keep regional prices configurable and treat them as starting prices rather than guaranteed quotations.
+
+7. TESTING
+Test all routes, navigation, mobile layouts, pricing selectors, form validation, social links, and WhatsApp links. Check for broken imports, missing assets, console errors, failed builds, and horizontal overflow. Fix issues before declaring the application ready. Do not claim that tests passed unless they were actually run.
+
+8. PROJECT DELIVERY
+Maintain a clean, organized source-code structure. Include a README, an environment-variable example containing placeholders only, database setup instructions, email configuration instructions, and deployment guidance. Provide a checklist separating:
+- Features implemented and tested.
+- Features implemented but not fully tested.
+- Features requiring credentials or external configuration.
+- Features not yet implemented.
+
+9. BEGINNER-FRIENDLY GUIDANCE
+Explain setup and next steps in beginner-friendly language. Include the commands needed to install dependencies and run the project locally, explain where environment variables belong, describe how to configure email and database services, and explain how to test and deploy the website. Never include real secrets in the source code or example environment file.
+
+10. FINAL PRIORITY
+The final goal is a polished, responsive, trustworthy international-facing website for Abidi Web Studio that can grow into a real web development business. Prioritize genuine functionality, maintainability, accessibility, performance, security, and honest presentation over merely producing a visually impressive mockup.
+⋮⋮⋮⋮
